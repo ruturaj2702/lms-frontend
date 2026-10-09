@@ -39,7 +39,7 @@ function LandingPage() {
         <div className="row align-items-center w-100 g-5">
           <div className="col-lg-7">
             <span className="badge bg-primary-subtle text-primary border border-primary-subtle px-3 py-2 rounded-pill fw-semibold mb-3">
-              <i className="bi bi-cloud-arrow-up-fill me-1"></i> Experiment 8: Cloud Deployment
+              <i className="bi bi-cloud-arrow-up-fill me-1"></i> Experiment 10: Cloud Deployment
             </span>
             <h1 className="display-4 fw-bold text-dark lh-tight mb-3">
               Full-Stack MERN Learning Management System
